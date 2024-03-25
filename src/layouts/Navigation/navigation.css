@@ -1,0 +1,12 @@
+.navigation-wrapper {
+    @media (max-width: 767px) {
+      .menu {
+        display: block !important;
+      }
+      .menu > .item {
+        display: block !important;
+        text-align: center !important;
+        width: 100% !important;
+      }
+    }
+  }
